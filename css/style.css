@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
+}
+
+header {
+  background-color: #F8EDE3;
+}
+
+.fakita {
+  background-color: #DFD3C3;
+}
+
+footer {
+  background-color: grey;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 100%;
+  font-size: 15px;
+}
+
+.btn-edicion {
+  background-color: grey;
+  color: white;
+}
+.btn-edicion:hover {
+  background-color: white;
+  border: black 2px solid;
+  color: hotpink;
+}
+
+.fakita #galeria .col-lg-4 {
+  padding: 25px;
+}
+.fakita #galeria img {
+  width: 100%;
+  height: 250px;
+}
+.fakita #galeria img:hover {
+  border: 5px solid #f7f7f7;
+}
+
+/*# sourceMappingURL=style.css.map */
