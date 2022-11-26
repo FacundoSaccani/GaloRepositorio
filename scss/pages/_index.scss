@@ -5,6 +5,10 @@ header{
     background-color: $fontSec;
 }
 
+.faki{
+    background-color: $fontSec;
+}
+
 footer{
     background-color: $fontTer;
 }
@@ -24,4 +28,8 @@ font-size: 15px;
     border: black 2px solid;
     color: $colorLetraTarjeta;
 }
+}
+
+h1{
+    display: none;
 }

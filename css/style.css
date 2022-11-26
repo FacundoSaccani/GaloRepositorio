@@ -13,6 +13,10 @@ header {
   background-color: #DFD3C3;
 }
 
+.faki {
+  background-color: #DFD3C3;
+}
+
 footer {
   background-color: grey;
 }
@@ -33,15 +37,84 @@ footer {
   color: hotpink;
 }
 
+h1 {
+  display: none;
+}
+
 .fakita #galeria .col-lg-4 {
   padding: 25px;
 }
 .fakita #galeria img {
-  width: 100%;
-  height: 250px;
+  width: 50vh;
+  height: 40vh;
 }
 .fakita #galeria img:hover {
-  border: 5px solid #f7f7f7;
+  border: 5px solid white;
+}
+
+.autoUnos:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoDos:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoTres:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoCuatro:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoCinco:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoSeis:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoSiete:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoOcho:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoNueve:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoDiez:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoOnce:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoDoce:hover {
+  transform: scale(1);
+  transition: all 1s;
+}
+
+.autoTri {
+  transform: scale(1);
+  transition: all 1s;
 }
 
 /*# sourceMappingURL=style.css.map */
